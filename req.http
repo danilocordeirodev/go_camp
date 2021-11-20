@@ -1,0 +1,10 @@
+
+
+http://localhost:8282/customers
+Content-Type: application/json
+
+
+###
+
+http://localhost:8000/customers/2005
+Content-Type: application/json
